@@ -1,0 +1,4 @@
+streamlit
+plotly
+finnhub-python
+googlesearch-python
