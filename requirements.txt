@@ -3,3 +3,4 @@ plotly
 finnhub-python
 googlesearch-python
 textblob
+groq
